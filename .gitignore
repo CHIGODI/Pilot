@@ -1,0 +1,8 @@
+BACK-END/env/
+BACK-END/__pycache__/
+BACK-END/app/__pycache__/
+BACK-END/app/pilot/__pycache__/
+FRONT-END/node_modules/
+FRONT-END/env/
+__pycache__/
+.env
